@@ -1,2 +1,19 @@
 # ShuttleForge
-Ultra-realistic 3D aerodynamic &amp; biomechanical simulation of badminton shuttlecock flight and jump smash with AI coaching Public
+
+**Ultra-realistic 3D aerodynamic simulation of badminton shuttlecock flight + biomechanics of the jump smash + AI training coach.**
+
+Built as a passion project by a Class 11 CBSE student.
+
+## Features
+- 3D shuttlecock flight simulation with real aerodynamic coefficients (drag crisis, spin, altitude, humidity, feather aging)
+- Jump smash musculoskeletal analysis
+- Video upload → trajectory tracking & validation against simulation
+- AI badminton coach (tips, drills, technique feedback)
+- Interactive 3D visualization
+
+## Tech Stack
+- **Backend**: Python (NumPy, SciPy, OpenCV, OpenSim)
+- **Frontend**: React + Three.js + Vite
+- **AI**: LLM-powered coaching chatbot
+
+## Project Structure
