@@ -17,3 +17,15 @@ Built as a passion project by a Class 11 CBSE student.
 - **AI**: LLM-powered coaching chatbot
 
 ## Project Structure
+
+
+## Status
+Currently in active development (3–4 month timeline).
+
+## Goals
+- Validate simulation with real filmed shots
+- Publish research article
+- Create a useful tool for players and coaches
+
+## Author
+Alokik Mittal – Class 11 CBSE | Passionate about Physics, Biomechanics & Badminton
